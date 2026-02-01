@@ -1,2 +1,2 @@
 # Amazon-Clone
-My first coding project
+https://github.com/artistkaransaini/Amazon-Clone.git
