@@ -1,2 +1,2 @@
 # Amazon-Clone
-https://github.com/artistkaransaini/Amazon-Clone.git
+https://artistkaransaini.github.io/Amazon-Clone/
